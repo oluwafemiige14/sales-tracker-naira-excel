@@ -2,7 +2,7 @@
 
 An Excel tracker that shows revenue, expenses and profit by salesperson, city and product using SUMIF formulas.
 
-![Sales and profit tracker](assets/25_ngn_sales_profit_tracker.png)
+<img width="859" height="714" alt="25_ngn_sales_profit_tracker" src="https://github.com/user-attachments/assets/c120d4d8-ac11-4801-ad28-f573fc5bdbd6" />
 
 ## Business problem
 
